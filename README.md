@@ -6,12 +6,13 @@ This dataset consists of the Ensemble Framework For Flash Flood Forecasting (EF5
 
 Analysis of simulations based on these parameters were also featured in EF5's publication:
 
-Flamig, Z.L., Vergara, H. and Gourley, J.J., 2020. The Ensemble Framework For Flash Flood Forecasting (EF5) v1. 2: Description and Case Study. Geoscientific Model Development Discussions, pp.1-26.
+**Flamig, Z.L., Vergara, H. and Gourley, J.J., 2020. The Ensemble Framework For Flash Flood Forecasting (EF5) v1. 2: Description and Case Study. Geoscientific Model Development Discussions, pp.1-26.**
 
 Parameters included correspond to the following models:
 
-- CREST
-- SAC-SMA
-- Hydrophobic (HP)
+- Coupled Routing and Excess STorage (CREST)
+- Sacramento Soil Moisture Accounting (SAC-SMA)
 - Kinematic Wave
 - Linear Reservoirs
+
+Digital Elevation Model (DEM) data and its derivatives (Flow direction and accumulation), and potential evapotranspiration (PET) monthly estimates are also included.
