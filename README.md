@@ -2,4 +2,4 @@
 
 # EF5-US-Parameters
 
-This dataset consists of EF5 model parameters developed for the first version of the implementation running within the Flooded Locations And Simulated Hydrographs (FLASH) system, which was transitioned to flafh flood warning operations in the National Weather Service (NWS)in November of 2016.
+This dataset consists of EF5 model parameters developed for the first version of the implementation running within the Flooded Locations And Simulated Hydrographs (FLASH) system, which was transitioned to flash flood warning operations in the United States' National Oceanic and Atmospheric Administration (NOAA) National Weather Service (NWS)in November of 2016.
